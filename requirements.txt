@@ -1,0 +1,29 @@
+# Core NLP + Embeddings
+sentence-transformers
+transformers
+torch
+
+# Vector Search
+faiss-cpu
+
+# PDF Processing
+pymupdf
+
+# Audio / Video Processing
+openai-whisper
+moviepy
+
+# Image OCR
+pytesseract
+Pillow
+
+# Utilities
+numpy
+tqdm
+
+# better performance / compatibility
+accelerate
+bitsandbytes
+
+# UI 
+gradio
